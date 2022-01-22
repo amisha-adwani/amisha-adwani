@@ -1,7 +1,5 @@
 - 👋 Hi there, I’m Amisha 
-- 🌱 I’m a beginner currently learning JavaScrpit
-- 💞️ I’m looking to learn and explore everything do consider me for collaboration 
-- 📫 Drop a text on twitter would love to talk about literally anything 
+- 🌱 Learning React
 
 <!---
 amisha-adwani/amisha-adwani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
